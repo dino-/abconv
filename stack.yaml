@@ -1,0 +1,8 @@
+resolver: lts-14.27
+
+packages:
+- .
+
+extra-deps:
+- git: https://github.com/dino-/aesonbson
+  commit: 4a422b424d088858165ef2780d85c64db14eba82
